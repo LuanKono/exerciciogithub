@@ -1,2 +1,1 @@
 # exerciciogithub
-# Luan Kono
