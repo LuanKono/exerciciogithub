@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Exercicio PHP - Hello World</title>
+        <title>Exercicio PHP - Hello World - Luan Kono</title>
     </head>
     <style>
         #hello {
